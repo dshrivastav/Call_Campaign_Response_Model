@@ -40,8 +40,8 @@ We evaluated multiple classification models — including Logistic Regression, D
 
 > Visual Reference:
 >
-> ![F1 Score Bar Plot](../images/f1_score_comparison.png)
-> ![Confusion Matrices](../images/confusion_matrix_grid.png)
+> ![F1 Score Bar Plot](../images/pa3_tuned_accuracy_vs_f1_barplot.png)
+> ![Confusion Matrices](../images/pa3_tuned_model_confusion_matrices.png)
 
 - **Support Vector Machine (SVM):** Delivered the highest precision, making it ideal when avoiding false positives is critical. This ensures that sales teams focus only on high-probability leads.
 
