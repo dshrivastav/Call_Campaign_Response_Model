@@ -270,10 +270,10 @@ Best Parameters Searched:
 ### Key Visuals
 
 1. Confusion Matrices (Tuned Models)  
-Location: `images/pa3_tuned_model_confusion_matrices.png`
+![Confusion Matrices](images/pa3_tuned_model_confusion_matrices.png)
 
-2. Accuracy vs F1 Score Bar Plot  
-Location: `images/pa3_tuned_accuracy_vs_f1_barplot.png`
+2. Accuracy vs F1 Score Bar Plot (Tuned Models)
+![Accuracy vs F1 Score Bar Plot](images/pa3_tuned_accuracy_vs_f1_barplot.png)
 
 These visualizations help illustrate trade-offs between model accuracy and their ability to capture positive class predictions.
 
