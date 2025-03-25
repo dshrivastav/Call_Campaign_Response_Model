@@ -132,7 +132,7 @@ To understand relationships between features and the target, we performed explor
 - Outliers found in `pdays` and `campaign`.
 - These were preserved to avoid overfitting, but scaled appropriately.
 
-![Box Plots](images/boxplots.png)
+![Box Plots](images/pa3-boxplots.png)
 
 
 ### 2. Preprocessing Steps
